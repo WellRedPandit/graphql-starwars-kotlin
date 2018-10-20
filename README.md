@@ -10,7 +10,8 @@ _/graphQL_
   - __query__: GraphQL query to parse.
   - __variables__: any variables for the query.
 
-# Example Usage
+# Usage
+
 1. Start the 'StarWarsServerApplication':
     ```
     ./gradlew run
